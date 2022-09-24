@@ -1,5 +1,5 @@
-# Bem-vindo(a) ao meu perfilzinho<img width="85" src="https://picrew.me/shareImg/org/202205/1515476_3QQkKBnK.png">
-## <img aling="left" width="70" src="https://picrew.me/shareImg/org/202205/1515476_c1IyZPcJ.png"> Sobre mim ↯
+# <img width="30" src="https://cdn-icons-png.flaticon.com/512/5494/5494947.png">   Bem-vindo(a) ao meu perfilzinho
+## <img aling="left" width="140" src="https://picrew.me/shareImg/org/202209/1473879_Rq27BVtX.png"> Sobre mim ↯
 Tenho 14 MAS TRABALHO com o consentimento de meus pais. 🤠<br/>
 ↡<br/>
 Adoro programar!! É minha maior paixão mas ainda sou junior nesse mundão. 🌎<br/>
@@ -8,7 +8,7 @@ Atualmente trabalho como Frontender. 👨‍💻<br/>
 ↡<br/>
 SOU SUPER GAMER E GEEK!! Me vejo até como um nerdzão kkk. 🐱‍👤
 
-## <img aling="left" width="70" src="https://picrew.me/shareImg/org/202205/1515476_aedzECJ5.png"> AQUI ESTÃO INFORMAÇÕES SOBRE MEU TRABALHO ↯
+## <img aling="left" width="30" src="https://cdn-icons-png.flaticon.com/512/5426/5426665.png"> AQUI ESTÃO INFORMAÇÕES SOBRE MEU TRABALHO ↯
 
  <div>
   <a href="https://github.com/Lipetom">
@@ -16,7 +16,7 @@ SOU SUPER GAMER E GEEK!! Me vejo até como um nerdzão kkk. 🐱‍👤
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipetom&layout=compact&langs_count=6&theme=merko"/>
 </div>
  
- ## <img aling="left" width="70" src="https://cdn-icons-png.flaticon.com/256/6970/6970315.png"> INVENTÁRIO DE LINGUAGENS ↯
+ ## <img aling="left" width="35" src="https://cdn-icons-png.flaticon.com/512/5172/5172239.png"> INVENTÁRIO DE LINGUAGENS ↯
  
 <div style="display: inline_block"><br/>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
